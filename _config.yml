@@ -1,6 +1,15 @@
 title: V S S ANIRUDH SHARMA
 logo: /assets/img/passportSizePhotoNew.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/v-s-s-anirudh-sharma-ab405617b/">LinkedIn</a> |
+  <a href="https://github.com/showman-sharma">GitHub</a>
+  
+  <br>   
+  Software developer at Oracle Financial Services Software. 
+  Minors in Artificial Intelligence and Machine Learning from IIT Madras.
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
