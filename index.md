@@ -26,6 +26,15 @@ The code uses a simple motion detection technique to detect movements from the i
 
 [Here's the demo](https://youtu.be/WMmskDZWDMI)
 
+### Melanoma Detection using CNN
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/showman-sharma/Melanoma_Detection_CNN)
+- Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths.
+- A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+- In this project, we use CNN based models that take images of malignant and benign oncological diseases and classify them into 9 classes of different diseases and cancers.
+- The training and validation data is formed from the [International Skin Imaging Collaboration (ISIC)](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic).
+- We build upon one CNN based model architecture, and train it with different augmentation techniques.
+
+
 ## Natural Language Processing
 
 ### InformationRetreival
@@ -93,6 +102,44 @@ We propose a leak source search system mounted on small sized drones or rovers t
 
 In this project, we use a smartphone to calculate the pulse of a user. The user is expected to press his/her thumb over the smartphone camera with the flash on. We use this footage to calculate pulse by applying various filtering techniques.
 
+
+## Other Machine Learning and Data Science Projects
+
+### Housing Price Analysis Using Regularized Linear Regression
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/showman-sharma/Housing-Price-Analysis)
+We are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
+
+We try to answer the following questions from our analysis:
+- Which variables are significant in predicting the price of a house, and
+- How well those variables describe the price of a house.
+
+Dataset obtained from [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+
+### BIKE SHARING SYSTEM ANALYSIS USING A LINEAR REGRESSION MODEL
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/showman-sharma/BIKE_SHARING-LIN-REG-MODEL)
+We want to understand the factors affecting the demand for shared bikes in the American market, based on various meteorological surveys and people's styles. More specifically we want to know:
+- Which variables are significant in predicting the demand for shared bikes.
+- How well those variables describe the bike demands
+
+We achieve this by building a Linear Regression model.
+
+Our model will be used by the management to understand how exactly the demands vary with different features. 
+They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. 
+Further, the model will be a good way for management to understand the demand dynamics of a new market.
+
+Data set obtained from [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset)
+
+### Lending Club Case study
+In this project, we analyse the impact of various factors on loan repayment defaulting. 
+Exploratory data analysis was performed and observations were drawn, providing suggestions to minimize risk and loss
+- We use EDA techniques like Univariate analysis, Bivariate analysis, Bayesian analysis and time series analysis
+- In this case study, we will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
+- Our dataset contains the complete loan data for all loans issued through the time period 2007 t0 2011.
+
+Dataset obtained from [data.world](https://data.world/jaypeedevlin/lending-club-loan-data-2007-11)
+   
+
+  
 
 
 
