@@ -130,6 +130,7 @@ Further, the model will be a good way for management to understand the demand dy
 Data set obtained from [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset)
 
 ### Lending Club Case study
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/showman-sharma/LendingClubCaseStudy)
 In this project, we analyse the impact of various factors on loan repayment defaulting. 
 Exploratory data analysis was performed and observations were drawn, providing suggestions to minimize risk and loss
 - We use EDA techniques like Univariate analysis, Bivariate analysis, Bayesian analysis and time series analysis
